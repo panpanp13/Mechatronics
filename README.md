@@ -1,5 +1,12 @@
 # Cross Road RECHECK
-VIDEO
+
+# Member
+นาย นภันต์ ตันศิริ 6430193021
+นาย วิภพ ประชานิยม  6430365621 
+นาย สยุมภู เชียงจง 6772098221
+
+-------------------------------------------------------------------------------------------------------------------------
+# VIDEO
 [![Watch the video](https://img.youtube.com/vi/nek8qwRLXHk/maxresdefault.jpg)](https://youtu.be/nek8qwRLXHk)
 
 ### [Watch this video on YouTube](https://youtu.be/nek8qwRLXHk)
