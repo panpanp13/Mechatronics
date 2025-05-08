@@ -1,6 +1,8 @@
 # Cross Road RECHECK
 VIDEO
-[Full video](https://youtu.be/nek8qwRLXHk?si=AJKSBx-u7eR70Tcv)
+[![Watch the video](https://img.youtube.com/vi/nek8qwRLXHk/maxresdefault.jpg)](https://youtu.be/nek8qwRLXHk)
+
+### [Watch this video on YouTube](https://youtu.be/nek8qwRLXHk)
 
 
 # Wirring Diagram
