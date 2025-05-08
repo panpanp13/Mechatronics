@@ -13,8 +13,9 @@ The inspiration for our project, Crossing Road Recheck, arose when our team came
 
 
 -------------------------------------------------------------------------------------------------------------------------
-
 # Wirring Diagram
+
+![image](https://github.com/user-attachments/assets/ad1c809b-c133-45ec-814e-08785a2f143a)
 
 -------------------------------------------------------------------------------------------------------------------------
 # List of equipment and prices
