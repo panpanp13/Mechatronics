@@ -11,7 +11,18 @@ The inspiration for our project, Crossing Road Recheck, arose when our team came
 
 ![image](https://github.com/user-attachments/assets/5052a073-f003-4255-a1ab-b38ae92c99ae)
 
+-------------------------------------------------------------------------------------------------------------------------
+# Related previous works
 
+After recognizing the issue and reviewing supporting statistical data, our team proceeded to search for related prior research. We found several studies of interest, including the following:
+
+Crossroad Accident Prevention System Using Real-Time Depth Sensing
+
+The Use of Convex Mirrors at crosswalk to Reduce Accidents
+
+Crossroad Accident Prevention System Using Real-Time Depth Sensing
+
+This study employed cameras to detect the speed of vehicles approaching a zebra crossing. The system defined four specific detection zones, or "boxes," along the roadway. By analyzing the depth data of each box and tracking a vehicle's movement from Box 1 to Box 2 over time, the system could calculate the vehicle's speed. If a vehicle approached the crossing at a high speed, a visual alert system was activated. This system used four different colors—green, yellow, orange, and red—to indicate the level of danger, thereby warning pedestrians and drivers accordingly.
 -------------------------------------------------------------------------------------------------------------------------
 # Wirring Diagram
 
