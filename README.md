@@ -23,6 +23,10 @@ The Use of Convex Mirrors at crosswalk to Reduce Accidents
 Crossroad Accident Prevention System Using Real-Time Depth Sensing
 
 This study employed cameras to detect the speed of vehicles approaching a zebra crossing. The system defined four specific detection zones, or "boxes," along the roadway. By analyzing the depth data of each box and tracking a vehicle's movement from Box 1 to Box 2 over time, the system could calculate the vehicle's speed. If a vehicle approached the crossing at a high speed, a visual alert system was activated. This system used four different colors—green, yellow, orange, and red—to indicate the level of danger, thereby warning pedestrians and drivers accordingly.
+
+![image](https://github.com/user-attachments/assets/8966fe11-08b3-4d7f-adfe-07d3ead221d5)  ![image](https://github.com/user-attachments/assets/c32ca73e-46bd-48b4-bdf0-70c69398be24)
+
+
 -------------------------------------------------------------------------------------------------------------------------
 # Wirring Diagram
 
@@ -34,23 +38,25 @@ This study employed cameras to detect the speed of vehicles approaching a zebra 
 
 -------------------------------------------------------------------------------------------------------------------------
 # System Interface
-เลือกขอบเขตในการตีเส้นถนน โดยมีการ เลือกจุด 4 จุดเป็นขอบเขต
+The boundaries for road marking were determined by selecting 4 specific points to define the area
 
 ![image](https://github.com/user-attachments/assets/b843ec7f-f2bb-47fb-b5d4-d5ce580a22cc)
 
-ใส่จํานวน lane ถนน  และ ใส่เกาะกลาง
+fill amount of road lane
 
 ![image](https://github.com/user-attachments/assets/da5c8c48-3b64-4305-a81c-311329aca4fd)   ![image](https://github.com/user-attachments/assets/9393e7c9-7fd0-4c48-8482-24956fb57072)
 
-ปรับแต่งเส้นที่ Generate ให้ตรงกับเลน
+move the green line to fit in road lane
 
 ![image](https://github.com/user-attachments/assets/8d6aa7cd-d49f-4f12-83bd-ff4b6c481546)
 
-หน้าจอแสดงผลไฟสีแดงคือมีรถอยู่ในเลน สีเขียวคือปลอดภัยสามารถข้ามทางม้าลายได้
+screed display trafic light when it green is safe to cross a crosswalk ,but when it red mean still have car lead to crosswalk
 
 ![image](https://github.com/user-attachments/assets/7fa38237-1968-4269-9598-28e9d5c7c706) ![image](https://github.com/user-attachments/assets/eab80f6b-f6a1-4f02-afef-4de10ac18dfc)
 
 -------------------------------------------------------------------------------------------------------------------------
+# Reference
+https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10392614&tag=1&tag=1
 
 
 
