@@ -23,6 +23,7 @@ VIDEO
 ![image](https://github.com/user-attachments/assets/da5c8c48-3b64-4305-a81c-311329aca4fd)   ![image](https://github.com/user-attachments/assets/9393e7c9-7fd0-4c48-8482-24956fb57072)
 
 ปรับแต่งเส้นที่ Generate ให้ตรงกับเลน
+
 ![image](https://github.com/user-attachments/assets/8d6aa7cd-d49f-4f12-83bd-ff4b6c481546)
 
 หน้าจอแสดงผลไฟสีแดงคือมีรถอยู่ในเลน สีเขียวคือปลอดภัยสามารถข้ามทางม้าลายได้
