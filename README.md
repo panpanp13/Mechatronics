@@ -18,7 +18,9 @@ VIDEO
 
 ![image](https://github.com/user-attachments/assets/b843ec7f-f2bb-47fb-b5d4-d5ce580a22cc)
 
-![image](https://github.com/user-attachments/assets/da5c8c48-3b64-4305-a81c-311329aca4fd) , ![image](https://github.com/user-attachments/assets/9393e7c9-7fd0-4c48-8482-24956fb57072)
+ใส่จํานวน lane ถนน  และ ใส่เกาะกลาง
+
+![image](https://github.com/user-attachments/assets/da5c8c48-3b64-4305-a81c-311329aca4fd)   ![image](https://github.com/user-attachments/assets/9393e7c9-7fd0-4c48-8482-24956fb57072)
 
 
 
