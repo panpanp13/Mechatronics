@@ -5,6 +5,14 @@ VIDEO
 ### [Watch this video on YouTube](https://youtu.be/nek8qwRLXHk)
 
 -------------------------------------------------------------------------------------------------------------------------
+# Background
+
+The inspiration for our project, Crossing Road Recheck, arose when our team came across news reports about pedestrian accidents occurring at zebra crossings. Generally, zebra crossings are intended to be one of the safest options for crossing roads, second only to pedestrian overpasses. This observation prompted our team to conduct further research, through which we discovered that the Consumer Organization Council (COC) reported accident statistics from the National Statistical Office. These data revealed that between 2,500 and 2,900 pedestrians are involved in traffic accidents each year while crossing roads, with approximately one-third of these incidents occurring in Bangkok—averaging around 900 cases annually. This figure is considered significant. Consequently, our team recognized the severity of this issue and decided to make it the central focus of our project.
+
+![image](https://github.com/user-attachments/assets/5052a073-f003-4255-a1ab-b38ae92c99ae)
+
+
+-------------------------------------------------------------------------------------------------------------------------
 
 # Wirring Diagram
 
@@ -30,7 +38,7 @@ VIDEO
 
 ![image](https://github.com/user-attachments/assets/7fa38237-1968-4269-9598-28e9d5c7c706) ![image](https://github.com/user-attachments/assets/eab80f6b-f6a1-4f02-afef-4de10ac18dfc)
 
-
+-------------------------------------------------------------------------------------------------------------------------
 
 
 
