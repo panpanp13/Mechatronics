@@ -4,6 +4,12 @@ VIDEO
 
 ### [Watch this video on YouTube](https://youtu.be/nek8qwRLXHk)
 
+-------------------------------------------------------------------------------------------------------------------------
 
 # Wirring Diagram
-![image](https://github.com/user-attachments/assets/a2500d57-40d7-48d0-9351-0a5f3d051cf7)
+
+-------------------------------------------------------------------------------------------------------------------------
+# List of equipment and prices
+![image](https://github.com/user-attachments/assets/0bb53645-0714-4387-8e82-4bdb34c103a3)
+
+
