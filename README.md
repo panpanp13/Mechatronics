@@ -6,4 +6,4 @@ VIDEO
 
 
 # Wirring Diagram
-
+![image](https://github.com/user-attachments/assets/a2500d57-40d7-48d0-9351-0a5f3d051cf7)
