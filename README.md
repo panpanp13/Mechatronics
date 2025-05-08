@@ -30,13 +30,13 @@ This study employed cameras to detect the speed of vehicles approaching a zebra 
 -------------------------------------------------------------------------------------------------------------------------
 # Wirring Diagram
 
-| อุปกรณ์                 | ใช้ทำงาน                                                         | ต่อเข้ากับ                                      |
+| Equipment  | Purpose                                                       | Connectivity                                   |
 |-------------------------|------------------------------------------------------------------|-------------------------------------------------|
-| Laptop                  | ใช้แสดงผลการแจ้งเตือนรถในแต่ละเลนจาก Raspberry Pi             | รีโมทผ่าน **RealVNC**                          |
-| RealVNC                 | แอปสำหรับรีโมต Desktop ของ Raspberry Pi 4 ไปยัง Laptop          | –                                               |
-| Raspberry Pi 4 Model B  | รันระบบทั้งหมด                                                  | กล้อง Webcam และ Power Bank                    |
-| กล้อง Webcam            | จับภาพรถที่วิ่งเข้ามายังทางม้าลาย                               | พอร์ต USB ของ Raspberry Pi                     |
-| Power Bank              | แหล่งจ่ายไฟให้บอร์ด Raspberry Pi                               | พอร์ต USB‑C Power ของ Raspberry Pi             |
+| Laptop                  | Display Result            | Remote by **RealVNC**                          |
+| RealVNC                 | app to remote laptop to Raspberry Pi          | –                                               |
+| Raspberry Pi 4 Model B  | Control system                                                  | Camera Webcam & Powerbank                    |
+| Camera Webcam            | Capture Vehicle                             | Usb port                    |
+| Power Bank              | Power supply                            |  USB‑C Power of Raspberry Pi             |
 
 
 ![image](https://github.com/user-attachments/assets/ad1c809b-c133-45ec-814e-08785a2f143a)
